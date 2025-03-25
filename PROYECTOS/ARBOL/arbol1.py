@@ -1,0 +1,15 @@
+from arbol_binario import  arbolbinario
+arbolito= arbolbinario()
+arbolito.insertar("F")
+arbolito.insertar("C")
+arbolito.insertar("D")
+arbolito.insertar("B")
+arbolito.insertar("E")
+arbolito.insertar("A")
+
+print("Prefijo")
+print (arbolito.printer(0))
+print("Postfijo")
+print (arbolito.printer(1))
+print("Entrefijo")
+print (arbolito.printer(2))
