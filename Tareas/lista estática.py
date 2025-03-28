@@ -1,0 +1,12 @@
+# Lista de materias estática (boleta)
+Lunes = ("RDS220","SZ","8:30-10:00"," || ", "MAT302","SA","10:00-11:30"," || ","INF220", "I2", "17:30-19:00"," || ","INF221","SX","19:45-22:00")
+Martes = ("ELC002","SA","15:15-16:45")
+Miercoles = ("RDS220","SZ","8:30-10:00"," || ", "MAT302","SA","10:00-11:30"," || ","INF220", "I2", "17:30-19:00"," || ","INF221","SX","19:45-22:00")
+Jueves = ("ELC002","SA","15:15-16:45")
+Viernes = ("RDS220","SZ","8:30-10:00"," || ", "MAT302","SA","10:00-11:30"," || ","INF220", "I2", "17:30-19:00")
+
+print("LUNES: ",Lunes)
+print("MARTES: ",Martes)
+print("MIERCOLES: ",Miercoles)
+print("JUEVES: ",Jueves)
+print("VIERNES: ",Viernes)
